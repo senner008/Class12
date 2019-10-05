@@ -87,7 +87,7 @@ Create an index.html with elements in the depicted hierarchy. Add ids and classe
 ## Exercise 4
 
 You have been hired to create a website for at company. It has to have the structure that is depicted below. Hint : use the float property
-The design is supposed to fill the entire page. Add different colored borders to each part of the layout
+The design is supposed to fill the entire page. Add different colored borders to each part of the layout.
 
 ![alt text](https://github.com/senner007/temp/blob/master/img_sem_elements.png "Logo Title Text 1")
 
@@ -104,4 +104,4 @@ Get a head start on week 2. Learn flex-box!
 Go to https://flexboxfroggy.com/
 
 
-Exercises made by [Niels Gregersen](https://github.com/senner007)
+Exercises made by [Niels Gregersen](https://github.com/senner008)
