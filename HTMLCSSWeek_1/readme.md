@@ -4,7 +4,7 @@
 Exercises made by [Niels Gregersen](https://github.com/senner007)
 
 ## Exercise 1
-Create web page where you introduce yourself. It should only have a headline, an image and some text.
+Create web page where you introduce yourself. It should only have a headline, an image, an ordered list of your favorite foods and some text.
 - Create an index.html file with only the basic structure: 
 
 ``` 
