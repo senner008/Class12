@@ -5,6 +5,7 @@ Exercises made by [Niels Gregersen](https://github.com/senner008)
 
 ## Exercise 1
 Create web page where you introduce yourself. It should only have a headline, an image, an ordered list of your favorite foods and some text.
+- Find the easiest way to create and html and a css file in your editor
 - Create an index.html file with only the basic structure: 
 
 ``` 
@@ -45,7 +46,7 @@ Create and index.html with the following hierarchy:
             <li>
                 First li element in second div child
             </li>
-            <li>
+            <li class="cool-style hot-style">
                 Second li element in second div child
             </li>
         </ul>
@@ -66,13 +67,14 @@ Create and index.html with the following hierarchy:
 Describe the hierarchy to the person sitting next to you. Draw a visual representation of the hierarchy
 
 Create an external main.css file and add a reference in the index.html.
-Do not add ids or classes to the tags. Now add the following specific styles:
+**Do not add ids or classes to the tags**. Now add the following specific styles:
 
 - select all elements. Add blue font color
 - select all li elements. Add red font color
 - select the second p element in the first div child. Add green color to the font. Hint: use the nth-child selector 
 - select the li element in the third div child. remove the dot
-- select the elements that have a class of 'cool-style'. Add some cool styling. 
+- 
+- select **only** the elements that have a class of 'cool-style'. Add some cool styling. 
 
 
 Now add your own improved styles so the hierarchy becomes visible/obvious to the viewer.
