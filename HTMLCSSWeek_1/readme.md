@@ -18,7 +18,7 @@ Create web page where you introduce yourself. It should only have a headline, an
     <body>
 
     </body>
-</html>
+</html
 ```
 - Accomplish the above task without styling any of the elements
 - Add inline styles.
@@ -73,7 +73,6 @@ Create an external main.css file and add a reference in the index.html.
 - select all li elements. Add red font color
 - select the second p element in the first div child. Add green color to the font. Hint: use the nth-child selector 
 - select the li element in the third div child. remove the dot
-- 
 - select **only** the elements that have a class of 'cool-style'. Add some cool styling. 
 
 
