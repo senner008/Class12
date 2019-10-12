@@ -95,7 +95,7 @@ The design is supposed to fill the entire page. Add different colored borders to
 - use div tags only
 - use semantic tags
 
-### Exercise 4 - Flexbox Solution
+### Exercise 4 (optional)- Flexbox Solution
 - footer can be(optinally) fixed at the bottom: Hint use display: fixed and bottom : 0
 - the section, article and aside should be contained in #content and set to flex-grow: 1;
 - width of section, article and aside should be set with the flex shorthand. 
