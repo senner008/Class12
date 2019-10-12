@@ -3,7 +3,7 @@
 
 ## Exercise 1
 Create the card as depicted and center it on the page
-![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWEEK_2/card_challenge.png "Card challenge")
+![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWeek_2/card_challenge.png "Card challenge")
 
 - set width to 500px and a height of 200px
 - card must be centered (try to use flexbox)
@@ -37,16 +37,16 @@ Create a nav section with horizontal links.
 </nav>
 ```
 
-![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWEEK_2/horizontal_nav.png "horizontal nav")
+![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWeek_2/horizontal_nav.png "horizontal nav")
 
-![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWEEK_2/vertical_nav.png "vertical nav")
+![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWeek_2/vertical_nav.png "vertical nav")
 
 
 ## Exercise 3
 
 Recreate the depicted layout
 
-![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWEEK_2/layout.png "layout")
+![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWeek_2/layout.png "layout")
 
 - 1 header , 3 columns, 1 footer
 - 3 columns always same height
