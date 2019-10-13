@@ -56,6 +56,7 @@ Recreate the depicted layout
 - section width significantly wider than the aside width
 - set a max-width to 1200px;
 - add a media query to change the order of the items in #main. The #content should always be displayed first or left most when the items start to wrap
+- set additional media queries depening on the content displayed. Perhaps use column-count property
 
 This is the html markup : 
 
