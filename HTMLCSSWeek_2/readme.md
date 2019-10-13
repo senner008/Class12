@@ -50,11 +50,11 @@ Recreate the depicted layout
 
 - 1 header , 3 columns, 1 footer
 - 3 columns always same height
-- footer sticky at bottom,  hint: bottom : 0 ; position sticky;
-- make it responsive without using media queries. hint: flex-wrap: wrap; on #main
+- footer appears sticky at bottom. Don't add css to footer. Instead add overflow-y to #main 
+- make it wrap underneath without using media queries. hint: flex-wrap: wrap; on #main
 - section, aside fluid size
 - section width significantly wider than the aside width
-- set a max-width to 1200px;
+- set a max-width of #main to 1200px;
 - add a media query to change the order of the items in #main. The #content should always be displayed first or left most when the items start to wrap
 - set additional media queries depening on the content displayed. Perhaps use column-count property
 
