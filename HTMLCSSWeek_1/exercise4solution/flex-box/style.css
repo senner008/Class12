@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+body > * {
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #000;
+}
+
+#content {
+    display: flex;
+    flex-grow: 1;
+    flex-wrap: wrap;
+}
+
+#section-article { 
+    flex: 2 1 300px;
+}
+
+section, article {
+    padding: 20px;
+    border: 2px dashed green;
+}
+
+aside {
+    padding: 20px;
+    flex: 1 1 300px;
+    border: 2px dashed blue;
+}
+
+/* optinal fixed footer */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: white;
+}
+
+
+
