@@ -1,8 +1,11 @@
-body, html {
+body,
+html {
     margin: 0;
 }
 
-*, *:after, *:before {
+*,
+*:after,
+*:before {
     box-sizing: border-box
 }
 
@@ -15,7 +18,7 @@ nav ul {
     display: flex;
     list-style: none;
     padding: 0;
-    background: #444; 
+    background: #444;
 }
 
 nav ul li {
@@ -32,13 +35,15 @@ nav ul li:last-child {
 
 @media (max-width: 400px) {
     nav ul {
-        flex-direction : column;
+        flex-direction: column;
     }
+
     nav ul li {
         border: none;
         width: 100%;
         border-top: 2px solid #000;
     }
+
     nav ul li:last-child {
         border-bottom: 2px solid #000;
     }
