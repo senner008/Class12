@@ -38,7 +38,3 @@ body {
     display: flex;
     align-items: center;
 }
-
-#photo img {
-    max-height: 100%;
-}
