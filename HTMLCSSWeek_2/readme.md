@@ -62,9 +62,9 @@ This is the html markup :
 ```
  <header>Header</header>
    <main id="main">
-       <aside id="left-aside">{ add some lorem ipsum here }</aside>
-       <section id="content">{ add some lorem ipsum here }</section>
-       <aside id="right-aside">{ add some lorem ipsum here }</aside>
+       <aside id="left-aside"><h1>Aside 1</h1>{ add some lorem ipsum here }</aside>
+       <section id="content"><h1>Section</h1>{ add some lorem ipsum here }</section>
+       <aside id="right-aside"><h1>Aside 2</h1>{ add some lorem ipsum here }</aside>
    </main>
    <footer>Footer</footer>
 ```
