@@ -18,7 +18,7 @@ Create a nav section with horizontal links.
 
 - use flexbox
 - add a media query to align vertically on a smaller screen
-- horizontal nav should have a max width of 800px
+- horizontal nav should have a max width of 600px
 - to move the last li to the right, set the margoin-left : auto
 - remember to add the subtle borders between the items 
 - ul background : background: #444; 
