@@ -15,7 +15,7 @@ body {
     display: flex;
     -webkit-transition: all 0.3s;
     /* For Safari 3.1 to 6.0 */
-    transition: all 0.3s;
+    transition: transform 0.3s;
     cursor: pointer;
 }
 
