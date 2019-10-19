@@ -1,0 +1,60 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    height: 200px;
+    margin: 5px 0;
+    border: 2px solid #000;
+    border-radius: 4px;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    -webkit-transition: transform 0.3s;
+    /* For Safari 3.1 to 6.0 */
+    transition: transform 0.3s;
+    cursor: pointer;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.card > * {
+   
+    padding: 10px;
+}
+
+.description {
+    background:white;;
+}
+
+.description h2 {
+    margin: 0;
+    text-align: center;
+}
+
+#photo {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+.photo img {
+    height: 100%;
+}
+
+@media (max-width: 520px) {
+    .card {
+        flex-direction: column;
+        width: 200px;
+        justify-content: center;
+        height: auto;
+    }
+    .photo img {
+        width: 100%;
+    }
+}

@@ -1,0 +1,29 @@
+html, body, li, ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#banner {
+    width: 100%;
+    overflow: hidden;
+}
+
+#banner img {
+    width: 100%;
+    min-width: 500px;
+
+}
+
+.footer-list-item iframe {
+    width: 100%;
+}
