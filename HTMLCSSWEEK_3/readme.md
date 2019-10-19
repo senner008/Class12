@@ -110,8 +110,8 @@ Do the following without touching the mouse:
 - open index.html in the browser 
 
 
-
-
-
-
-
+## Exercise optional 2
+ 
+In week 2 folder there is a solution to the week 2 homework. Notice it is using flex-box
+Notice also that there is an unfinished v2 in a nested folder. 
+Try to complete the v2 using css-grids.
