@@ -9,7 +9,7 @@
 - Comment out 'position: relative;' in the #parent selector
 - Explain what happens
 
-![alt text](https://github.com/senner007/temp/blob/master/classwork_3/positioning.png "horizontal nav")
+![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWEEK_3/positioning.png "horizontal nav")
 
 ## Exercise 2
 
