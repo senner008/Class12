@@ -20,7 +20,7 @@ nav {
     overflow: hidden;
 }
 
-img {
+#banner {
     width: 100%;
     display: block;
     max-width: 1500px;
