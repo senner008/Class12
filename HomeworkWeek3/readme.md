@@ -11,7 +11,7 @@ The task is to recreate this form in HTML and CSS. You should focus on using the
 Notice that there is some “state-based” functionality, such as the ability to hide and show a custom shipping address, if the billing and shipping address is not the same. Try to apply the “checkbox hack” that we used in class today to achieve this (https://css-tricks.com/the-checkbox-hack/)
 
 <!-- Currently you are expected to create 4 separate HTML files and set up links between them using anchor (<a>) tags. If you feel like trying out some more techniques learned in class today, try instead putting the 4 different form steps into tabs using the library we learned to use today. Or you can also create tabs using the checkbox hack.  -->
-You need touse the basic skelton markup already created for you in this folder. Just look in the html and fill in the missing form elements. It also has a reference to a javascript file. You should not look at this file and only trust that it works as intended as long as you insert the elements in the html as described in the html. 
+You need to use the basic skelton markup already created for you in this folder. Just look in the html and fill in the missing form elements. It also has a reference to a javascript file. You should not look at this file and only trust that it works as intended as long as you insert the elements in the html as described in the html. 
 
 There is a progress bar that will indicate how far the user is. If you have time, try to use CSS transitions to animate it so the bar goes from 0-1 on the first page, 1-2 on the second page and so on (with a smooth and nice animation).
 
