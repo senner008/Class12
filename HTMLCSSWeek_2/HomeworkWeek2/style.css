@@ -42,7 +42,7 @@ nav ul li {
     padding: 10px 0;
 }
 
-section {
+section .container {
     display: flex;
     margin-top: 20px;
     flex-wrap: wrap;
