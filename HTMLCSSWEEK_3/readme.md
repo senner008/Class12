@@ -4,6 +4,7 @@
 ## Exercise 1 Absolute vs Relative positioning:
 
 - Add the markup from Exercis 1 folder and see the effect.
+- https://github.com/senner008/Class12/tree/master/HTMLCSSWEEK_3/Evercise1
 - Explain what is going on with relative and absolute positioning
 - Comment out 'position: relative;' in the #parent selector
 - Explain what happens
