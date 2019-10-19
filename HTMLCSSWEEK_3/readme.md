@@ -3,55 +3,12 @@
 
 ## Exercise 1 Absolute vs Relative positioning:
 
-- Add this markup and see the effect.
+- Add the markup from Exercis 1 folder and see the effect.
 - Explain what is going on with relative and absolute positioning
 - Comment out 'position: relative;' in the #parent selector
 - Explain what happens
 
-Html : 
-```
-  <div id="parent">
-    <div>One</div>
-    <div>Two</div>
-    <div>Three</div>
-    <div>Four</div>
-  </div>
-```
-
-Css:
-
-```
-  body {
-      border: 1px solid #000;
-      margin: 0;
-  }
-
-  #parent {
-      margin-top: 200px;
-      border: 2px dotted red;
-      position : relative;
-      /* comment out the above line */
-  }
-
-  #parent div {
-      border: 1px solid #000;
-      display : block;
-      width: 200px;
-      height: 100px;
-      font-weight: bold;
-      font-size: 20px;
-  }
-
-  #parent div:nth-child(2) {
-      position : absolute;
-      margin-left: 500px;
-      border: 2px dotted red;
-      bottom : 0;
-  }
-  
-```
 ![alt text](https://github.com/senner007/temp/blob/master/classwork_3/positioning.png "horizontal nav")
-
 
 ## Exercise 2
 
