@@ -13,3 +13,5 @@
 ## Absolute and relative position and z-index
 - https://www.youtube.com/watch?v=P6UgYq3J3Qs
 
+## Links to Videos Week 3 class
+- https://1drv.ms/u/s!AoI-8hQGtXUmlDO01kgZ1x3q4B0n?e=qaX7hQ
