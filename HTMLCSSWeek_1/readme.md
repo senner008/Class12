@@ -90,7 +90,7 @@ Create an index.html with elements in the depicted hierarchy. Add ids and classe
 You have been hired to create a website for at company. It has to have the structure that is depicted below. Hint : use the float property
 The design is supposed to fill the entire page. Add different colored borders to each part of the layout.
 
-![alt text](https://github.com/senner007/temp/blob/master/img_sem_elements.png "Logo Title Text 1")
+![alt text](https://github.com/github.com/senner008/Class12/blob/master/HTMLCSSWeek_1/floated_layout.png "Logo Title Text 1")
 
 - use div tags only
 - use semantic tags
