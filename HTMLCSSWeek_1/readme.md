@@ -82,7 +82,7 @@ Now add your own improved styles so the hierarchy becomes visible/obvious to the
 
 Create an index.html with elements in the depicted hierarchy. Add ids and classes.
 
-![alt text](https://github.com/senner007/temp/blob/master/Hierarchy-1.png "Logo Title Text 1")
+![alt text](https://github.com/senner008/Class12/blob/master/HTMLCSSWeek_1/hierarchy.png "Logo Title Text 1")
 
 
 ## Exercise 4
